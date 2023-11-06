@@ -83,6 +83,9 @@ initial-scale=1.0">
                             case 'docentes':
                                 include 'assets/inc/docentes.inc';
                                 break;
+                            case 'mapa':
+                                include 'assets/inc/mapaCurrilular2023_3.inc';
+                                break;
                             
                             default:
                                 include 'assets/inc/inicio.inc';

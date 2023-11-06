@@ -54,3 +54,11 @@
                         </a>
                     </li>                 
                 </ul>
+                <ul class="list-unstyled components">
+                    <li>
+                        <a href="menu.aspx?id=mapa" class="py-2">
+                            <i class="bx bx-book-reader mx-2"></i>
+                            <span class="links_name">MAPAS CURRICULARES</span>
+                        </a>
+                    </li>                 
+                </ul>
