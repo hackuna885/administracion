@@ -95,11 +95,13 @@
 
                                 <h4>Correo:</h4>
                                 <ul>
-                                    <li>leonel.zamudio@utfv.edu.mx</li>
+                                    <li>alma.velazquez@utfv.edu.mx</li>
                                     <li>ernesto.arauz@utfv.edu.mx</li>
                                     <li>dirac.administracion@utfv.edu.mx</li>
-                                    <li>berta.vazquez@utfv.edu.mx</li>
-                                    <li>cesar.alcaraz@utfv.edu.mx</li>
+                                    <li>miri.avila@utfv.edu.mx</li>
+                                    <li>krisel.olivares@utfv.edu.mx</li>
+                                    <li>aldo.ponse@utfv.edu.mx</li>
+                                    <li>Tel: 5526493184 Ext 281 o 5536409491 Ext 328</li>
                                 </ul>
                             </div>
                         </div>

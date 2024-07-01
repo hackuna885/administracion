@@ -20,7 +20,7 @@ initial-scale=1.0">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>UTFV - Administración 2023-3</title>
+    <title>UTFV - Administración 2024-2</title>
 </head>
 <body oncontextmenu="return false">
     <div id="app" >
@@ -69,16 +69,16 @@ initial-scale=1.0">
                                 include 'assets/inc/progEduca.inc';
                                 break;
                             case 'listas':
-                                include 'assets/inc/listas2023_3.inc';
+                                include 'assets/inc/listas2024_2.inc';
                                 break;
                             case 'horarios':
-                                include 'assets/inc/horarios2023_3.inc';
+                                include 'assets/inc/horarios2024_2.inc';
                                 break;
                             case 'especiales':
-                                include 'assets/inc/especiales2023_3.inc';
+                                include 'assets/inc/especiales2024_2.inc';
                                 break;
                             case 'estadias':
-                                include 'assets/inc/estadias2023_3.inc';
+                                include 'assets/inc/estadias2024_2.inc';
                                 break;
                             case 'docentes':
                                 include 'assets/inc/docentes.inc';
