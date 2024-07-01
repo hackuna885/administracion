@@ -38,14 +38,14 @@
                         </a>
                     </li>                 
                 </ul>
-                <ul class="list-unstyled components">
+                <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=estadias" class="py-2">
                             <i class="bx bx-user-voice mx-2"></i>
                             <span class="links_name">ESTADÍAS</span>
                         </a>
                     </li>                 
-                </ul>
+                </ul> -->
                 <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=docentes" class="py-2">
