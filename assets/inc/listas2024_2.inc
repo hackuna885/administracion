@@ -165,24 +165,24 @@
                                                 <td><a href="https://drive.google.com/file/d/1n0JzvbbLRd-ITwFnDYAn72OSa_JZ0bAm/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-801</i></a></td>
                                             </tr>
                                             <tr>
-                                                <td>LCT-802</td>
-                                                <td><a href="https://drive.google.com/file/d/1fWAndqoDdtTRLBxpGOZCCj7QjWhsgIxB/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-802</i></a></td>
+                                                <td>LCTE-802</td>
+                                                <td><a href="https://drive.google.com/file/d/1fWAndqoDdtTRLBxpGOZCCj7QjWhsgIxB/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-802</i></a></td>
                                             </tr>
                                             <tr>
                                                 <td>LCT-901</td>
                                                 <td><a href="https://drive.google.com/file/d/1x_IMdhBMpCpInwTG4dkYPf9Gy-IXCl_q/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-901</i></a></td>
                                             </tr>
                                             <tr>
-                                                <td>LCT-902</td>
-                                                <td><a href="https://drive.google.com/file/d/1SgGlgKMXo1jQ8tYBXLqXRSCQElsnRxEv/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-902</i></a></td>
+                                                <td>LCTE-902</td>
+                                                <td><a href="https://drive.google.com/file/d/1SgGlgKMXo1jQ8tYBXLqXRSCQElsnRxEv/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-902</i></a></td>
                                             </tr>
                                             <tr>
-                                                <td>LCT-903</td>
-                                                <td><a href="https://drive.google.com/file/d/1HIPWPBXOnq4dpVAIyKHOQkwZBCkpJ2ou/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-903</i></a></td>
+                                                <td>LCTE-903</td>
+                                                <td><a href="https://drive.google.com/file/d/1HIPWPBXOnq4dpVAIyKHOQkwZBCkpJ2ou/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-903</i></a></td>
                                             </tr>
                                             <tr>
-                                                <td>LCT-1001</td>
-                                                <td><a href="https://drive.google.com/file/d/1PMnQ197RfbICjS381Gz1StvsnIW4iYup/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCT-1001</i></a></td>
+                                                <td>LCTE-1001</td>
+                                                <td><a href="https://drive.google.com/file/d/1PMnQ197RfbICjS381Gz1StvsnIW4iYup/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-1001</i></a></td>
                                             </tr>
                                             
                                           </tbody>
