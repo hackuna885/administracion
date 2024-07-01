@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">DOCENTES</h1>
                             <p class="py-3 text-center">
-                                Actualización 17/10/2023 14:27 p.m.
+                                Actualización 30/06/2024 20:17 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-12 mx-auto m-3">
@@ -12,16 +12,16 @@
                                     <br>
                                     <br>
                                     <div class="card mx-auto" style="width: 18rem;">
-                                        <img class="card-img-top" src="img/imgDocentes/Leonel_Zamudio Cervantes.jpg">
+                                        <img class="card-img-top" src="img/imgDocentes/Alma_Jazmin_Velazquez_Torres.jpg">
                                         <div class="card-body mx-auto text-center">
-                                          <p class="text-center">Leonel Zamudio Cervantes</p>
-                                          <h5>DIRECTOR ACADÉMICO</h5>
+                                          <p class="text-center">Alma Jamín Velázquez Torres</p>
+                                          <h5>DIRECTORA ACADÉMICA</h5>
                                         </div>
                                     </div>
                                 </div>
                                 <br>
                                 <br>
-                                <div class="col-xl-4 col-md-6 mx-auto m-3">
+                                <!-- <div class="col-xl-4 col-md-6 mx-auto m-3">
                                     <div class="col-md-12 mx-auto">
                                         <div class="card mx-auto mx-3" style="width: 15rem;">
                                             <img class="card-img-top" src="img/imgDocentes/Cesar_Javier_Alcaraz_Sevilla.jpg">
@@ -42,7 +42,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>                              
+                                </div>                               -->
                                 <div class="col-xl-4 col-md-6 mx-auto m-3">
                                     <div class="col-md-12 mx-auto">
                                         <div class="card mx-auto mx-3" style="width: 15rem;">
@@ -53,17 +53,19 @@
                                             </div>
                                         </div>
                                     </div> 
-                                </div> 
-                                <div class="row">
-                                    <div class="col-md-12 mx-auto m-3">
-                                        <div class="card mx-auto" style="width: 15rem;">
+                                </div>
+                                <div class="col-xl-4 col-md-6 mx-auto m-3">
+                                    <div class="col-md-12 mx-auto">
+                                        <div class="card mx-auto mx-3" style="width: 15rem;">
                                             <img class="card-img-top" src="img/imgDocentes/Ernesto_Juan_Arauz_Rosas.jpg">
                                             <div class="card-body mx-auto text-center">
-                                              <p class="text-center">Ernesto Juan Araúz Rosas</p>
-                                              <h5>Técnico Académico</h5>
+                                                <p class="text-center">Ernesto Juan Araúz Rosas</p>
+                                                <h5>Técnico Académico</h5>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> 
+                                </div> 
+                                <div class="row">
                                     
                                 </div>
                                 <div class="col-xl-4 col-md-6 mx-auto m-3">
