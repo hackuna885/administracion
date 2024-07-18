@@ -45,7 +45,7 @@
                                             </tr>
                                             <tr>
                                                 <td>ACH-305</td>
-                                                <td><a href="https://drive.google.com/file/d/1STom6cuWfe0ZeY_uPmQwnrFzHmaApATv/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-305</i></a></td>
+                                                <td><a href="https://drive.google.com/file/d/1pxLQmX49rbva5Xe4hHIBilui9xgGzOSy/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-305</i></a></td>
                                             </tr>
                                             <tr>
                                                 <td>ACH-306</td>
@@ -53,11 +53,11 @@
                                             </tr>
                                             <tr>
                                                 <td>ACH-308</td>
-                                                <td><a href="https://drive.google.com/file/d/1STom6cuWfe0ZeY_uPmQwnrFzHmaApATv/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-308</i></a></td>
+                                                <td><a href="https://drive.google.com/file/d/1T8fHs-ljwBCHNfcQ8nCFDAGpFcCNGusQ/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-308</i></a></td>
                                             </tr>
                                             <tr>
                                                 <td>ACH-401</td>
-                                                <td><a href="https://drive.google.com/file/d/1STom6cuWfe0ZeY_uPmQwnrFzHmaApATv/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-401</i></a></td>
+                                                <td><a href="https://drive.google.com/file/d/1oEEo_mOaW8lQRKDF65HZp_wIPVhQ24yB/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">ACH-401</i></a></td>
                                             </tr>
                                             <tr>
                                                 <td>ACH-501</td>
@@ -80,14 +80,33 @@
                                           </thead>
                                           <tbody>
                                             <tr>
+                                                <td>LCGHE-801</td>
+                                                <td><a href="https://drive.google.com/file/d/172Et8vMdUS-loHKIpQgapF9ngcsse08H/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCHE-801</i></a></td>
+                                            </tr>
+                                            <tr>
                                                 <td>LCGH-901</td>
                                                 <td><a href="https://drive.google.com/file/d/1FmXgByuCt1tLh0XXSJvXjSGOEK7G0WCi/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCH-901</i></a></td>
-                                            </tr>
+                                            </tr>                                            
                                             <tr>
                                                 <td>LCGH-902</td>
                                                 <td><a href="https://drive.google.com/file/d/1x_IMdhBMpCpInwTG4dkYPf9Gy-IXCl_q/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCH-902</i></a></td>
                                             </tr>
-                                            
+                                            <tr>
+                                                <td>LGCHE-903</td>
+                                                <td><a href="https://drive.google.com/file/d/1ZdLLFkFa1MIvA-ndFUd4-qH3XjN7jevM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCHE-903</i></a></td>
+                                            </tr>
+                                            <tr>
+                                                <td>LGCHE-904</td>
+                                                <td><a href="https://drive.google.com/file/d/1ph_q_38vz10kd0PfhF7B0YyIGKHKXirU/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCHE-904</i></a></td>
+                                            </tr>
+                                            <tr>
+                                                <td>LGCHE-905</td>
+                                                <td><a href="https://drive.google.com/file/d/1SbiPJqs5P4EhqYYpNz426kbOKjH4u78t/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCHE-905</i></a></td>
+                                            </tr>
+                                            <tr>
+                                                <td>LGCHE-1001</td>
+                                                <td><a href="https://drive.google.com/file/d/1riWJxxU2V9agiyl70-aPjkVY7j83PEZf/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LGCHE-1001</i></a></td>
+                                            </tr>                                            
                                           </tbody>
                                     </table>
 
@@ -174,7 +193,7 @@
                                             </tr>
                                             <tr>
                                                 <td>LCTE-902</td>
-                                                <td><a href="https://drive.google.com/file/d/1SgGlgKMXo1jQ8tYBXLqXRSCQElsnRxEv/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-902</i></a></td>
+                                                <td><a href="https://drive.google.com/file/d/1059znFjBCzWEx2yIZ1dEw1eQMY1xZ4AN/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf">LCTE-902</i></a></td>
                                             </tr>
                                             <tr>
                                                 <td>LCTE-903</td>
