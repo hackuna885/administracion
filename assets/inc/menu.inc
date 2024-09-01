@@ -30,14 +30,14 @@
                         </a>
                     </li>                 
                 </ul>
-                <ul class="list-unstyled components">
+                <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=especiales" class="py-2">
                             <i class="bx bx-spreadsheet mx-2"></i>
                             <span class="links_name">ESPECIALES</span>
                         </a>
                     </li>                 
-                </ul>
+                </ul> -->
                 <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=estadias" class="py-2">
