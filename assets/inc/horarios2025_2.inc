@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">HORARIOS 2025-2</h1>
                             <p class="py-3 text-center">
-                                Actualización 28/04/2025 07:17 a.m.
+                                Actualización 29/04/2025 16:12 hrs.
                             </p>
                             <div class="row">
                                 <div class="col-md-12">
